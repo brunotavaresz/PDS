@@ -1,0 +1,5 @@
+Num aeroporto para não haver muitos acidentes, os aviãos tem que saber quando é que os outros aviões vão aterrar.
+Para isso eles informam a torre de controle de quando vão chegar e esta informa todos os outros aviões dessa informação.
+Então, a torre de controle vai servir de mediator e informar outros aviões quando um avião vai aterrar.
+
+A ideia foi retirada do exemplo fornecido por: https://refactoring.guru/design-patterns/mediator

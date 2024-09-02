@@ -1,0 +1,56 @@
+Advanced Printer Test
+Spooling 1 document.
+Finished Job 0: This is a great text...
+Spooling 3 documents.
+Spooled jobs:
+  * Job 2: Natural language gen...
+  * Job 3: You which to know ho...
+Finished Job 1: This is a great text...
+Finished Job 2: Natural language gen...
+Spooling 3 documents.
+Job 6 cancelled.
+Spooled jobs:
+  * Job 4: This is a great text...
+  * Job 5: Natural language gen...
+Finished Job 3: You which to know ho...
+Finished Job 4: This is a great text...
+Finished Job 5: Natural language gen...
+Spooling 3 documents.
+Finished Job 7: This is a great text...
+Spooled jobs:
+  * Job 9: You which to know ho...
+Job rejected by spool: service shutting down?
+Basic Printer Test
+Document printed: "This is a great text..."
+Document printed: "This is a great text..."
+Document printed: "Natural language gen..."
+Document printed: "You which to know ho..."
+Please refill printer.
+Printer refilled.
+Document printed: "This is a great text..."
+Document printed: "Natural language gen..."
+Document printed: "You which to know ho..."
+No spooled jobs.
+No spooled jobs.
+Document printed: "This is a great text..."
+Please refill printer.
+Printer refilled.
+Document printed: "Natural language gen..."
+Document printed: "You which to know ho..."
+Document printed: "This is a great text..."
+Document printed: "Natural language gen..."
+Please refill printer.
+Printer refilled.
+Document printed: "You which to know ho..."
+No spooled jobs.
+No spooled jobs.
+Document printed: "This is a great text..."
+Document printed: "Natural language gen..."
+Document printed: "You which to know ho..."
+Please refill printer.
+Printer refilled.
+Document printed: "This is a great text..."
+Document printed: "Natural language gen..."
+Document printed: "You which to know ho..."
+No spooled jobs.
+No spooled jobs.

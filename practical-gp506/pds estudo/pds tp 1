@@ -1,0 +1,7 @@
+ Interface segregation principle
+ 
+ - A ideia principal deste princípio diz nos que é melhor ter muitas interfaces pequenas do que algumas grandes.
+ - O desenvolvimento deve focar em interfaces refinadas para atender a funções específicas de cliente, sem forçar o cliente a usar a interface.
+ - O objetivo é não começar com uma interface existente e adicionar novos métodos. Em vez disso, deve-se começar por construir uma nova interface e depois permitir que a classe implemente várias interfaces conforme necessário.
+ - As menores interfaces significam que os desenvolvedores devem preferir composição por herança.
+ - De acordo com este princípio, os programadores devem trabalhar para ter muitas interfaces específicas do cliente, evitando assim a tentação de ter uma grande interface com conteúdo bastante geral.

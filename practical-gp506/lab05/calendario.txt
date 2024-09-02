@@ -1,0 +1,5 @@
+Acedendo a classe fornecida em https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/util/Calendar.java, encontramos os construtores 'protected Calendar()' e 'protected Calendar(TimeZone zone, Locale aLocale)'.
+Como estes estão protegidos, apenas podem ser acedidos dentro da classe. 
+Portanto, para os utilizar, usamos o método getInstance(), com diferente número de argumentos de entrada, que chama o método createCalendar(). 
+Este por si irá criar diferentes tipos de Calendar consoante os argumentos de entrada.
+Com isto concluimos que a class Calendar usa o Factory Design Pattern.

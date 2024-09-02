@@ -1,0 +1,4 @@
+Contact [name=John, number=123456789, email=john@email.com]
+Contact [name=Doe, number=987654321, email=doe@guugli.yml]
+Contact [name=Jane, number=123456789, email=janinha@yahoo.pt]
+Contact [name=mariana, number=123456789, email=mn@nm.pt]
